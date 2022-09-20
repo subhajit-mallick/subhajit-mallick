@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhajit-mallick
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently Web Development
 - 💞️ I’m looking to collaborate on App developmenmt projects
 - 📫 How to reach me : email: subhajit.mallick.7370@gmail.com
 
